@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kenan Hodzic",
+	"description": "A project for practising",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
